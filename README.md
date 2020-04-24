@@ -1,5 +1,5 @@
 # NoteDetect - simple note recognition java library 
-This is a java library for note recognition, developed during work on my undergraduate project. It contains implemetation for Fourier transform, low and high pass filters and a few utility algorithms. 
+This is a java library for note recognition, developed during work on my undergraduate project (late 2018 - 2019). It contains implemetation of Fast Fourier Transform, low and high pass filters and a few utility algorithms. 
 
 ## JAR - compiled & distributable lib
 Compiled jar archive is located in _jar_ directory.
